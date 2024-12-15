@@ -1,0 +1,117 @@
+1. INTERNAL
+Examples of business-related information with moderate protection:
+
+Internal Company Policy Document:
+"This document outlines Citi’s dress code and conduct policy for all employees, specifying guidelines for professional attire and workplace behavior. It is intended for internal distribution only."
+Meeting Minutes:
+"Minutes of the team strategy meeting held on December 15, 2024. Topics discussed include project timelines for Q1, budget allocation, and team responsibilities. This document is for internal use only and does not contain sensitive information."
+Training Schedule:
+"The Citi Training Team has scheduled a compliance training session for January 20, 2025, at 10:00 AM. Attendance is mandatory for all employees. Topics will cover regulatory policies and best practices."
+Department Organization Chart:
+"The updated organizational chart for the Technology Department includes names, titles, and reporting structures for team members as of December 2024."
+Internal Newsletter:
+"The Citi Monthly Update highlights achievements, team recognitions, and upcoming events for employees. It features details about a company-sponsored wellness program and community outreach initiatives."
+2. INTERNAL PII
+Examples of personal information not sensitive enough to meet Confidential or Sensitive PII thresholds:
+
+Employee Directory:
+"John Smith, Software Engineer, Email: john.smith@citi.com, Phone: (123) 456-7890, Office Location: Building B, 2nd Floor."
+Team Contact List:
+"Citi Marketing Team:
+Alice Johnson (Manager): alice.johnson@citi.com, Ext. 2021
+Mark Thompson (Coordinator): mark.thompson@citi.com, Ext. 2023."
+Employee Work Anniversary Announcement:
+"Congratulations to Sarah Lee for completing 5 years at Citi! Sarah joined the Finance Department in December 2019 and has been instrumental in key projects."
+Office Seating Plan:
+"Office Seating Arrangement:
+Desk 1: Maria Gonzalez (HR Coordinator)
+Desk 2: Kevin Chen (IT Support)."
+General Employee Information:
+"Citi Employee Number: 12345
+Name: David Brown
+Department: Risk Management
+Role: Analyst."
+3. CONFIDENTIAL
+Examples of Citi business information that requires high protection:
+
+Non-Public Financial Report:
+"Q4 2024 Financial Overview: The report shows a projected revenue growth of 8% and outlines costs associated with new market expansions. This information is strictly confidential and not for external distribution."
+Vendor Contract:
+"Agreement between Citi and ABC Technologies for IT software development services. The contract specifies project deliverables, timelines, and payment schedules, effective January 2025."
+Marketing Strategy Document:
+"The 2025 Marketing Plan for Citi's new product line outlines target demographics, advertising channels, and campaign budgets. Unauthorized sharing of this information could compromise competitive advantage."
+Corporate Merger Proposal:
+"Proposal for Citi to acquire XYZ Bank, including detailed financial analysis, integration plans, and potential market impact. This document is confidential pending regulatory approval."
+Internal Risk Assessment:
+"The 2024 Risk Assessment Report evaluates operational vulnerabilities in Citi's digital infrastructure and includes recommendations to strengthen cybersecurity."
+4. CONFIDENTIAL PII
+Examples of personal information that could facilitate fraud or identity theft:
+
+Bank Account Information:
+"Account Holder: Jane Doe
+Account Number: 123456789
+Bank: CitiBank
+Routing Number: 987654321."
+Employee Payroll Record:
+"Name: Michael Brown
+SSN: 123-45-6789
+Salary: $90,000/year
+Tax Information: Filed under Form W-2."
+Customer Credit Card Details:
+"Customer Name: Emily Carter
+Credit Card Number: 4111 1111 1111 1111
+Expiration Date: 12/26
+CVV: 123."
+Passport Information:
+"Name: Rajesh Kumar
+Passport Number: A12345678
+Issued Date: January 10, 2020
+Expiry Date: January 10, 2030."
+Insurance Information:
+"Policyholder: Lisa Green
+Health Insurance ID: H789456123
+Provider: ABC Health Insurance
+Coverage: Comprehensive Plan."
+5. SENSITIVE PII
+Examples of legally protected personal data that require the highest level of safeguards:
+
+Medical Records:
+"Patient: Robert White
+Diagnosis: Type 2 Diabetes
+Medications: Metformin 500mg
+Physician: Dr. Susan Hayes, Citi Health Clinic."
+Biometric Data:
+"Employee Biometric Profile: Jane Doe
+Fingerprint Scan ID: 789XYZ
+Facial Recognition Template: Encrypted File A456."
+Racial or Ethnic Data:
+"Employee Self-Identification Survey:
+Name: Ahmed Ali
+Ethnicity: Middle Eastern
+Religion: Muslim."
+Government-Issued ID:
+"Driver's License Information:
+Name: Carla Reyes
+License Number: D1234567
+State: New York
+Expiration: 03/2026."
+Gender Identity Data:
+"Employee Gender Disclosure Form:
+Name: Alex Martin
+Preferred Pronouns: They/Them
+Gender Identity: Non-Binary."
+6. RESTRICTED
+Examples of highly sensitive data critical to Citi's operations or reputation:
+
+Executive Strategy Report:
+"The Global Strategy Report for Citi's expansion into Asian markets identifies opportunities, risks, and financial projections. Unauthorized disclosure could severely impact Citi's market position."
+Cybersecurity Incident Response Plan:
+"In the event of a data breach, this document details the immediate actions to contain, investigate, and mitigate the attack. Access is restricted to senior IT personnel only."
+High-Value Client Portfolio:
+"Client: Alpha Holdings Ltd.
+Assets Under Management: $500 million
+Investment Strategy: Diversified, with 40% in equities and 60% in fixed income."
+Merger Negotiation Document:
+"A summary of Citi's confidential negotiations to acquire a competitor, including projected cost savings, cultural integration plans, and regulatory considerations."
+Infrastructure Security Blueprint:
+"The IT Security Architecture document outlines Citi's data encryption protocols, firewall configurations, and multi-factor authentication methods for protecting critical systems."
