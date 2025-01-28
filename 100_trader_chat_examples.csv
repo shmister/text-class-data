@@ -1,0 +1,401 @@
+Timestamp & Dialogue,Label
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
+"[08:45:12 AM] Trader A: I need 200k shares of AAPL near the open, limit 195. Can you manage?
+[08:45:45 AM] Trader B: 195 might be tight—it's gapping up. Want me to chase slightly if it pushes?",Trade
+"[09:18:30 AM] Trader A: Sell 50 S&P minis at market. Let me know the fill.
+[09:18:58 AM] Trader B: Sold 50 at 4,126.75. Bids stacking below—anything else?",Trade
+"[10:01:05 AM] Trader A: Looking to buy 10mm EUR/USD around 1.0865. Quiet book or moving?
+[10:02:01 AM] Trader B: Moving slightly—buyers coming in at 1.0862. You want me to sit tight or follow?",Trade
+"[11:15:23 AM] Trader A: What’s the size on that USD/JPY offer at 134.75?
+[11:15:59 AM] Trader B: Showing 20mm now. Want to take a piece or go full size?",Trade
+"[01:42:50 PM] Trader A: Any liquidity for the June crude contract? Need 250 lots.
+[01:43:18 PM] Trader B: Can get 150 inside the spread at 79.10, rest will push the market.",Trade
+"[02:12:20 PM] Trader A: Execute 5k of SPY puts, strike 400, expiring this Friday. Pay up to 2.30.
+[02:13:05 PM] Trader B: Got it. Working it now, 2.30 is firm.",Trade
+"[03:45:10 PM] Trader A: Need to unwind 10 contracts of gold futures, close to 1925. Can we get a clean print?
+[03:46:22 PM] Trader B: Already some bids in that range. I'll stagger the orders to avoid moving it.",Trade
+"[09:50:11 AM] Trader A: Can we short 100k shares of META at 305? Check inventory.
+[09:51:40 AM] Trader B: Inventory good. Working the short now.",Trade
+"[12:22:15 PM] Trader A: We’re a buyer in GBP/USD around 1.2580. Can you get liquidity?
+[12:23:04 PM] Trader B: Spread looks decent. I’ll piece it in at 1.2580–1.2583.",Trade
+"[11:11:45 AM] Trader A: Buy 200 Tesla $500 calls, June expiry. Keep it under $15.00.
+[11:13:00 AM] Trader B: Market’s tight—could get partials under $15. Want me to cap it?",Trade
+"[08:32:11 AM] Trader A: Did you hear about that glitch on the NASDAQ yesterday?
+[08:33:15 AM] Trader B: Yeah, delayed the close by like 10 minutes. Bet compliance had a field day.",Non-Trade
+"[09:12:40 AM] Trader A: What's the plan for Friday? Pub after the close?
+[09:14:02 AM] Trader B: Definitely. Unless we’re stuck with some late flow again.",Non-Trade
+"[10:45:55 AM] Trader A: Any idea when IT’s upgrading our terminals? Mine keeps freezing mid-trade.
+[10:47:03 AM] Trader B: They said Q2, but who knows? Might want to bribe them with coffee.",Non-Trade
+"[02:22:19 PM] Trader A: What’s the chatter on that news from the ECB? Dovish tilt?
+[02:23:08 PM] Trader B: Yeah, feels like it. Euro's giving it all back.",Non-Trade
+"[04:01:30 PM] Trader A: You good for the desk dinner next week? It’s at Del Frisco’s.
+[04:03:45 PM] Trader B: Count me in. Hoping it's not a 3-hour compliance speech first, though.",Non-Trade
+"[09:10:55 AM] Trader A: Did you watch the F1 race last weekend? Epic finish.
+[09:12:00 AM] Trader B: Totally. That last lap was insane. Red Bull's on fire this season.",Non-Trade
+"[11:02:30 AM] Trader A: What’s the coffee situation? Machine’s out again.
+[11:03:45 AM] Trader B: Already flagged facilities. Back to instant coffee for now.",Non-Trade
+"[03:25:10 PM] Trader A: Have you checked out the new Bloomberg terminal updates? Charts look smoother.
+[03:27:15 PM] Trader B: Yeah, much better UI. Finally something intuitive.",Non-Trade
+"[10:15:25 AM] Trader A: Did you finalize the macro slides for the 11 AM meeting?
+[10:16:40 AM] Trader B: Almost there. Just cleaning up the charts. You’ll have it soon.",Non-Trade
+"[02:00:00 PM] Trader A: What’s the buzz on that startup we met last week? The AI one?
+[02:01:50 PM] Trader B: Good traction so far. Could be worth a closer look.",Non-Trade
